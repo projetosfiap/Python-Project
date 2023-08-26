@@ -6,4 +6,6 @@ INTEGRANTES:
 1TDSPY
 Caio Ribeiro Rodrigues 99759
 Eduardo Bartolomeo Jablinski 550975 
-Henrique Lopes da Silva 550279 
+Natalia Siqueira Cardoso Scigliano 98430
+Guilherme Riofrio Quaglio 550137
+Gabriel Cunha dos Santos 98074
